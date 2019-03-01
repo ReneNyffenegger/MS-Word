@@ -2,7 +2,7 @@
 #
 #                                         Microsoft Word Proofing options:
 #
-#                                         Change how Rod corrects and formats your text.
+#                                         Change how Word corrects and formats your text.
 #
 #
 
